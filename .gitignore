@@ -1,3 +1,6 @@
 bazel*
 *.swp
 *.swo
+
+my_go_app/my_go_app
+my_go_app/include/*.a
