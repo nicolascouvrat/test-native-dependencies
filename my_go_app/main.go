@@ -3,7 +3,7 @@ package main
 /*
 
 #cgo CFLAGS: -I./include
-#cgo LDFLAGS: -L./include -lmylib_c_static
+#cgo LDFLAGS: -L./include -lmylib_c_static -ldl
 #include "mylib_native.h"
 */
 import "C"
