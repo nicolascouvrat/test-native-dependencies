@@ -1,0 +1,1 @@
+void mylib_call();
